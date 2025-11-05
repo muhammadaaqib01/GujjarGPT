@@ -1,0 +1,7 @@
+{
+  "name": "GujjarGPT",
+  "description": "A sophisticated AI chatbot named GujjarGPT, designed for engaging and intelligent conversations. Powered by Google's Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
